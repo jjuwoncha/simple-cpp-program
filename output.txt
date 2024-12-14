@@ -1,0 +1,2 @@
+Hello, WSL and Visual Studio Code!
+This is a test file.
